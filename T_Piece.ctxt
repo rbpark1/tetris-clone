@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=i1\ i2\ i3\ i4
+comment0.target=T_Piece(Block,\ Block,\ Block,\ Block)
+comment0.text=\n\ Constructor\ that\ accepts\ four\ Block()\ objects\ to\ create\ a\ T\ Tetronimo.\n\ @param\ i1\ -\ A\ Block()\ object.\n\ @param\ i2\ -\ A\ Block()\ object.\n\ @param\ i3\ -\ A\ Block()\ object.\n\ @param\ i4\ -\ A\ Block()\ object.\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Tetronimo\ wants\ to\ do.\ This\ method\ is\ called\n\ whenever\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ shift()
+comment2.text=\n\ Method\ that\ moves\ the\ piece\ to\ the\ left,\ right,\ or\ down.\n
+numComments=3

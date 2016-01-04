@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Block()
+comment0.text=\n\ Constructor\ for\ creating\ Block()\ Objects.\ Once\ they\ are\ declared\ and\ initialized.\n\ Each\ block\ has\ two\ boolean\ values,\ one\ of\ which\ are\ immediately\ initalized,\ as\ well\ as\ an\ int\ variable\ that\ is\ also\ immediately\ initalized.\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Block\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=boolean\ canMoveL()
+comment2.text=\n\ Method\ that\ checks\ if\ this\ Block\ has\ enough\ space\ to\ its\ left\ to\ make\ a\ shift\ to\ the\ left.\n
+comment3.params=
+comment3.target=boolean\ canMoveR()
+comment3.text=\n\ Method\ that\ checks\ if\ this\ Block\ has\ enough\ space\ to\ its\ right\ to\ make\ a\ shift\ to\ the\ right.\n
+comment4.params=
+comment4.target=boolean\ canMoveD()
+comment4.text=\n\ Method\ that\ checks\ if\ this\ Block\ has\ enough\ space\ below\ it\ to\ make\ a\ shift\ one\ cell\ downwards.\n
+comment5.params=
+comment5.target=boolean\ end()
+numComments=6
